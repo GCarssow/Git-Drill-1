@@ -1,0 +1,15 @@
+  478  cp /home/graham/Desktop/GIFs/giphy.gif giphy.gif
+  479  git add -A
+  480  git status
+  481  git commit -m "Replace Vista with Ubuntu and this is pretty accurate for me"
+  482  git status
+  483  git remote -v
+  484  git push origin master
+  485  git push -u origin master
+  486  git push origin master
+  487  git remote set-url origin https://github.com/GCarssow/Git-Drill-1.git
+  488  git add -A
+  489  git status
+  490  git commit -m "Replace Vista with Ubuntu and this is pretty accurate for me"
+  491  git push origin master
+  492  history | tail -n 15 > my-commands
